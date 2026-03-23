@@ -20,8 +20,10 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        - <img width="326" height="114" alt="image" src="https://github.com/user-attachments/assets/52c4baae-353c-49e2-a3b4-2d296c33dc0b" /> range 함수의 시작지점을 전체 문자수 -1로, 끝 지점을 -1로, 간격을 -1로 하니 거꾸로 간다고 합니다. range 함수 구간에서 바로 이렇게 거꾸로 나열할 수 있을 줄은 몰랐습니다.
-        - <img width="944" height="569" alt="image" src="https://github.com/user-attachments/assets/dc389458-0d92-4100-be36-2d9a562ad01a" /> 이 문제는 거의 동일하게 풀었습니다.
+        - <img width="326" height="114" alt="image" src="https://github.com/user-attachments/assets/52c4baae-353c-49e2-a3b4-2d296c33dc0b" />
+        - range 함수의 시작지점을 전체 문자수 -1로, 끝 지점을 -1로, 간격을 -1로 하니 거꾸로 간다고 합니다. range 함수 구간에서 바로 이렇게 거꾸로 나열할 수 있을 줄은 몰랐습니다.
+        - <img width="944" height="569" alt="image" src="https://github.com/user-attachments/assets/dc389458-0d92-4100-be36-2d9a562ad01a" />
+        - 이 문제는 거의 동일하게 풀었습니다.
 
 - [ ] 3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나 새로운 시도 또는 추가 실험을 수행해봤나요?
     - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
